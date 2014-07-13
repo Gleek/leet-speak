@@ -1,0 +1,3 @@
+content	leet-speak	chrome/content/	contentaccessible=yes
+
+overlay	chrome://browser/content/browser.xul	chrome://leet-speak/content/main.xul
